@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/_3gLEagPtG/?taken-by=therealrichii'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-09T08:15:35.469Z'
+dateModified: '2016-01-09T06:39:53.978Z'
 author:
   - name: therealrichii
     url: 'https://www.instagram.com/therealrichii'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1150529727958678342'
     type: ios
@@ -19,15 +23,15 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/_3gLEagPtG/?taken-by=therealrichii'
 title: '#QuokkaPhotoBomb'
-datePublished: '2016-01-09T06:15:30.605Z'
-dateModified: '2016-01-09T05:20:04.116Z'
 sourcePath: _posts/2016-01-09-quokkaphotobomb.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
