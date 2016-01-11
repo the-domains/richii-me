@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/ManMadeMoon/status/686441083648212992'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - kh2fq3tf9m
   - twitter
@@ -17,8 +17,8 @@ keywords:
   - hiccup
   - momentary
 description: "Very sorry and sad to say it's true. I'll be offline for a while. Love to all."
-datePublished: '2016-01-11T18:00:24.115Z'
-dateModified: '2016-01-11T18:00:09.901Z'
+datePublished: '2016-01-11T18:17:38.151Z'
+dateModified: '2016-01-11T18:17:29.113Z'
 author:
   - name: manmademoon
     url: 'http://twitter.com/manmademoon'
