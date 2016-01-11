@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/ManMadeMoon/status/686441083648212992'
+inLanguage: en
+starred: true
+keywords:
+  - kh2fq3tf9m
+  - twitter
+  - location
+  - offline
+  - tweet
+  - sorry
+  - sad
+  - copying
+  - hiccup
+  - momentary
+description: "Very sorry and sad to say it's true. I'll be offline for a while. Love to all."
+datePublished: '2016-01-11T08:01:07.788Z'
+dateModified: '2016-01-11T08:01:05.073Z'
 author:
   - name: manmademoon
     url: 'http://twitter.com/manmademoon'
@@ -17,34 +37,16 @@ author:
           - 2
           - 4
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - kh2fq3tf9m
-  - twitter
-  - location
-  - offline
-  - tweet
-  - sorry
-  - sad
-  - copying
-  - hiccup
-  - momentary
-description: "Very sorry and sad to say it's true. I'll be offline for a while. Love to all."
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/ManMadeMoon/status/686441083648212992'
-datePublished: '2016-01-11T07:46:43.456Z'
-dateModified: '2016-01-11T07:44:53.137Z'
 title: ''
 sourcePath: _posts/2016-01-11-very-sorry-and-sad-to-say-its-true-ill-be-offline-for-a-w.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
