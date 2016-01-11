@@ -17,8 +17,8 @@ keywords:
   - hiccup
   - momentary
 description: "Very sorry and sad to say it's true. I'll be offline for a while. Love to all."
-datePublished: '2016-01-11T19:34:41.887Z'
-dateModified: '2016-01-11T19:31:58.278Z'
+datePublished: '2016-01-11T19:41:48.947Z'
+dateModified: '2016-01-11T19:41:40.915Z'
 author:
   - name: manmademoon
     url: 'http://twitter.com/manmademoon'
@@ -51,4 +51,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+We're all mourning his passing, but the world is so much richer for the time David Bowie spent with us. Check ignition and may God's love be with you.
 ![Very sorry and sad to say it's true. I'll be offline for a while. Love to all.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a11de3d5cb785077b6625ad28d59f1489a02008d.jpg)
