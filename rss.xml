@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 23:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 06:35:26 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[David Bowie correctly predicted the future of the internet 16 years ago]]></title>
+            <description><![CDATA[<article><h1>David Bowie correctly predicted the future of the internet 16 years ago</h1><p>Everyone knows David Bowie as a fashion pioneer and a musical visionary, but the man alternately known as the Thin White Duke/Ziggy Stardust/Jareth the Goblin King was also a tech trailblazer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edeeb8dfa722bc65e502c2ab19bf4e0fa6734715.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/1/11/10753158/david-bowie-internet-future-interview</link>
+            <guid isPermaLink="false">f76f1bcf-08ec-4a42-ae76-eaeb2f86a2e7</guid>
+            <pubDate>Tue, 12 Jan 2016 06:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Remembering David Bowie&comma; in this cartoon by &commat;BentSchwartz&colon; http&colon;&sol;&sol;nyer&period;cm&sol;VcRBq1T" src="https://pbs.twimg.com/media/CYdOTs6WcAAYPC5.png:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_299BAAPlq/?taken-by=therealrichii</link>
             <guid isPermaLink="false">4524af32-ddfc-46f0-83e3-036b6cd6e43f</guid>
             <pubDate>Sat, 09 Jan 2016 06:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waiheke]]></title>
-            <description><![CDATA[<article><h1>Waiheke</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/540362de211704a3a8ced0d86def3190017684b0.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/richiime/21836884461/in/datetaken-public/</link>
-            <guid isPermaLink="false">e32992c3-e36c-4665-af5a-097ed9da6975</guid>
-            <pubDate>Sat, 09 Jan 2016 06:13:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
