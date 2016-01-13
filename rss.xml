@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 06:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 10:47:30 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best roof repair ever!]]></title>
+            <description><![CDATA[<article><h1>Best roof repair ever!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3bb87856ad74afa44c3a1cdfa9f41dce6090265.png"></article>]]></description>
+            <link>http://richii.me/best-roof-repair-ever/index.html</link>
+            <guid isPermaLink="false">9dbe20f9-5169-45d2-94c6-e198ca7bb54b</guid>
+            <pubDate>Wed, 13 Jan 2016 10:47:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[David Bowie correctly predicted the future of the internet 16 years ago]]></title>
             <description><![CDATA[<article><h1>David Bowie correctly predicted the future of the internet 16 years ago</h1><p>Everyone knows David Bowie as a fashion pioneer and a musical visionary, but the man alternately known as the Thin White Duke/Ziggy Stardust/Jareth the Goblin King was also a tech trailblazer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edeeb8dfa722bc65e502c2ab19bf4e0fa6734715.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mandurah</h1><p>Instagram photo by Richard Stocks * Dec 18, 2015 at 11:10pm UTC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71672c47355a450996d0633795176c44c152eb0f.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/_c3xjTgPo-/?taken-by=therealrichii</link>
             <guid isPermaLink="false">3c25fb78-8781-418f-963a-9a51b5809add</guid>
-            <pubDate>Sat, 09 Jan 2016 06:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the way to Rottnest!]]></title>
-            <description><![CDATA[<article><h1>On the way to Rottnest!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d0ad55a2705ee2540cd50d465fa0cd5b7186888.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_299BAAPlq/?taken-by=therealrichii</link>
-            <guid isPermaLink="false">4524af32-ddfc-46f0-83e3-036b6cd6e43f</guid>
             <pubDate>Sat, 09 Jan 2016 06:15:30 GMT</pubDate>
         </item>
     </channel>
