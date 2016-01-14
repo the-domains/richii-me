@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 10:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 06:04:48 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Down at the Viaduct]]></title>
+            <description><![CDATA[<article><h1>Down at the Viaduct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1ca3d8f013eac49779524f66504d154b78ee39.png"></article>]]></description>
+            <link>http://richii.me/down-at-the-viaduct/index.html</link>
+            <guid isPermaLink="false">5a70feff-f0d4-44b1-907c-167ff7ac2ed2</guid>
+            <pubDate>Thu, 14 Jan 2016 06:04:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Best roof repair ever!]]></title>
             <description><![CDATA[<article><h1>Best roof repair ever!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3bb87856ad74afa44c3a1cdfa9f41dce6090265.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_3gLEagPtG/?taken-by=therealrichii</link>
             <guid isPermaLink="false">c80fb361-f536-4cd6-9ce9-b5357ee1ceb1</guid>
             <pubDate>Sat, 09 Jan 2016 08:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mandurah]]></title>
-            <description><![CDATA[<article><h1>Mandurah</h1><p>Instagram photo by Richard Stocks * Dec 18, 2015 at 11:10pm UTC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71672c47355a450996d0633795176c44c152eb0f.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_c3xjTgPo-/?taken-by=therealrichii</link>
-            <guid isPermaLink="false">3c25fb78-8781-418f-963a-9a51b5809add</guid>
-            <pubDate>Sat, 09 Jan 2016 06:15:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
