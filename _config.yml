@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5625
+  saturation: 0.718638
   brandStrength: 0
-  rhythmicContrast: 0.25
+  lightness: 0.5
   brandColors:
     - '#070c08'
     - '#f9f9f9'
     - '#b1bed2'
     - '#6e817b'
     - '#e5b448'
-  lightness: 0.5
+  rhythmicContrast: 0.25
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: richii.me
+favicon: null
 opengraph:
   image: null
   type: null
