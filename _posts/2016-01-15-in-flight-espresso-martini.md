@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:6c9caa53-a8d0-408d-95b4-21d0d75aed9f'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-15T10:50:38.908Z'
+dateModified: '2016-01-15T10:50:34.326Z'
 author: []
-datePublished: '2016-01-15T10:43:40.334Z'
-publisher:
-  domain: ''
-  name: ''
 title: In-flight espresso martini
-dateModified: '2016-01-15T10:42:55.251Z'
 sourcePath: _posts/2016-01-15-in-flight-espresso-martini.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: in-flight-espresso-martini/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
