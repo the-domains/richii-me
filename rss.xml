@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 06:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 01:32:00 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alan Rickman Dies Aged 69]]></title>
+            <description><![CDATA[<article><h1>Alan Rickman Dies Aged 69</h1><p>The veteran British actor and filmmaker Alan Rickman has died at the age of 69. The much-loved figure's death was confirmed Thursday by his family. He had been suffering from cancer. Already a well-respected figure on the London stage during the 1980's, Rickman achieved global success as a film actor relatively late in life following his memorable turn as terrorist Hans Gruber in 1988's Die Hard opposite Bruce Willis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3049b134f4401b77fae36382a993baf5928d3b7.jpg"></article>]]></description>
+            <link>http://deadline.com/2016/01/alan-rickman-dies-aged-69-die-hard-harry-potter-truly-madly-deeply-1201682690/</link>
+            <guid isPermaLink="false">015ba100-c1f8-4d18-8c81-a7417c6bc387</guid>
+            <pubDate>Fri, 15 Jan 2016 01:31:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Down at the Viaduct]]></title>
             <description><![CDATA[<article><h1>Down at the Viaduct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1ca3d8f013eac49779524f66504d154b78ee39.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_3frcLAPsg/?taken-by=therealrichii</link>
             <guid isPermaLink="false">4b7ab55e-fb52-405d-815f-8bc719eab702</guid>
             <pubDate>Sat, 09 Jan 2016 06:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#QuokkaPhotoBomb]]></title>
-            <description><![CDATA[<article><h1>#QuokkaPhotoBomb</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/973a922a30d5365f310c0f57d52fb31b43de302e.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_3gLEagPtG/?taken-by=therealrichii</link>
-            <guid isPermaLink="false">c80fb361-f536-4cd6-9ce9-b5357ee1ceb1</guid>
-            <pubDate>Sat, 09 Jan 2016 08:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
