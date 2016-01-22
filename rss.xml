@@ -4,11 +4,18 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 02:52:47 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[When back doors go bad: Mind your Ps and Qs]]></title>
+            <description><![CDATA[<article><h1>When back doors go bad: Mind your Ps and Qs</h1><p>This is going to be a long and technical article, but the point can be stated more simply: The kinds of security architectures in which it is easy to insert a back door are typically less secure than the security architectures in which it is hard to insert a back door.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d434109b62c11044119a85dda88711f02de5ae61.jpg"></article>]]></description>
+            <link>https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/</link>
+            <guid isPermaLink="false">9f7f5ebf-f8ff-434c-ba5f-78b4574dd25d</guid>
+            <pubDate>Fri, 22 Jan 2016 02:51:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hand held at 300mm]]></title>
-            <description><![CDATA[<article><h1>Hand held at 300mm</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1585b1517b637406948063da606ac6effeb3e51f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hand held at 300mm</h1><p>This shot is a jpeg straight out of the camera, no processing or cropping, taken hand-held at 300mm (approx 810mm equivalent on a 35mm frame). I'm sure a few minutes tweaking the raw file will look even better!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1585b1517b637406948063da606ac6effeb3e51f.jpg"></article>]]></description>
             <link>http://richii.me/hand-held-at-300mm/index.html</link>
             <guid isPermaLink="false">d1befb2a-40b4-40c7-9288-151a65a56278</guid>
             <pubDate>Sun, 17 Jan 2016 11:41:47 GMT</pubDate>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Down at the Viaduct]]></title>
-            <description><![CDATA[<article><h1>Down at the Viaduct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1ca3d8f013eac49779524f66504d154b78ee39.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Down at the Viaduct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35e5e389372cc0faeaef574a1778dbd81495f868.png"></article>]]></description>
             <link>http://richii.me/down-at-the-viaduct/index.html</link>
             <guid isPermaLink="false">5a70feff-f0d4-44b1-907c-167ff7ac2ed2</guid>
             <pubDate>Thu, 14 Jan 2016 06:04:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/TheRealRichii/status/685562297008304128</link>
             <guid isPermaLink="false">fb97f747-b91b-4768-b929-620f4ca47ac0</guid>
             <pubDate>Sat, 09 Jan 2016 12:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploding Kittens]]></title>
-            <description><![CDATA[<article><h1>Exploding Kittens</h1><p>It has to be said: @gameofkittens have the best shipping notes, ever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952869f06ea1654d7d98dff109fcb00200c3d25d.png"></article>]]></description>
-            <link>https://twitter.com/TheRealRichii/status/685282403166720000</link>
-            <guid isPermaLink="false">842891fa-866e-40e2-b661-66b17118243a</guid>
-            <pubDate>Sat, 09 Jan 2016 11:49:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
