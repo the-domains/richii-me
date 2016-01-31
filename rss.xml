@@ -4,18 +4,25 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 02:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 00:14:20 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4c5629-52d9-4ca7-b394-00b1e5a3e450.JPG">]]></description>
+            <link>https://twitter.com/TheRealRichii/status/693410404945367040</link>
+            <guid isPermaLink="false">6cd59fe3-1c3f-4e69-b93d-114d8dd53253</guid>
+            <pubDate>Sun, 31 Jan 2016 00:04:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tell your Trade Minister: do not sign the TPP!]]></title>
-            <description><![CDATA[<article><h1>Tell your Trade Minister: do not sign the TPP!</h1><p>Decision-makers are pushing to sign the Trans Pacific Partnership (TPP) in the next two weeks. 1 If this happens, it starts the final countdown to push the agreement into law. And if it becomes law, it will censor the Web, criminalize our online activities, and cost Internet users money.</p><img src="https://dontsignthetpp.net/sites/dontsignthetpp.net/files/1200x627_fbLinkImg_tpp.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tell your Trade Minister: do not sign the TPP!</h1><p>Decision-makers are pushing to sign the Trans Pacific Partnership (TPP) in the next two weeks. 1 If this happens, it starts the final countdown to push the agreement into law. And if it becomes law, it will censor the Web, criminalize our online activities, and cost Internet users money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f10a6e38e77c60edee524bd32d7dc57d91ee293.jpg"></article>]]></description>
             <link>https://dontsignthetpp.net/</link>
             <guid isPermaLink="false">f041e2e4-881f-4ede-96df-0ea8628d1c89</guid>
             <pubDate>Fri, 29 Jan 2016 02:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When back doors go bad: Mind your Ps and Qs]]></title>
-            <description><![CDATA[<article><h1>When back doors go bad: Mind your Ps and Qs</h1><p>This is going to be a long and technical article, but the point can be stated more simply: The kinds of security architectures in which it is easy to insert a back door are typically less secure than the security architectures in which it is hard to insert a back door.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d434109b62c11044119a85dda88711f02de5ae61.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>When back doors go bad: Mind your Ps and Qs</h1><p>This is going to be a long and technical article, but the point can be stated more simply: The kinds of security architectures in which it is easy to insert a back door are typically less secure than the security architectures in which it is hard to insert a back door.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7811817614a5df41478c4806ef2b464e2d819749.jpg"></article>]]></description>
             <link>https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/</link>
             <guid isPermaLink="false">9f7f5ebf-f8ff-434c-ba5f-78b4574dd25d</guid>
             <pubDate>Fri, 22 Jan 2016 02:51:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/NewYorker/status/686603569202655236</link>
             <guid isPermaLink="false">a0913cf2-aebf-4d2b-95a0-fb8c9b9d9cc2</guid>
             <pubDate>Mon, 11 Jan 2016 23:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a11de3d5cb785077b6625ad28d59f1489a02008d.jpg" alt="Very sorry and sad to say it&apos;s true. I&apos;ll be offline for a while. Love to all." title="">]]></description>
-            <link>https://twitter.com/ManMadeMoon/status/686441083648212992</link>
-            <guid isPermaLink="false">ca156401-e404-4a18-94c4-286bbffcb091</guid>
-            <pubDate>Mon, 11 Jan 2016 19:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
