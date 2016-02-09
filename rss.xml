@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 00:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 10:27:29 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="What could possibly go wrong&quest;" src="https://pbs.twimg.com/media/CabQoWbVAAAnvEU.jpg:large">]]></description>
+            <link>https://twitter.com/tongotongoz/status/695472585295863809</link>
+            <guid isPermaLink="false">2097676f-5692-46b9-ab9c-1a2e4aed3f41</guid>
+            <pubDate>Tue, 09 Feb 2016 10:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4c5629-52d9-4ca7-b394-00b1e5a3e450.JPG">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/1/11/10753158/david-bowie-internet-future-interview</link>
             <guid isPermaLink="false">f76f1bcf-08ec-4a42-ae76-eaeb2f86a2e7</guid>
             <pubDate>Tue, 12 Jan 2016 06:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Remembering David Bowie&comma; in this cartoon by &commat;BentSchwartz&colon; http&colon;&sol;&sol;nyer&period;cm&sol;VcRBq1T" src="https://pbs.twimg.com/media/CYdOTs6WcAAYPC5.png:large">]]></description>
-            <link>https://twitter.com/NewYorker/status/686603569202655236</link>
-            <guid isPermaLink="false">a0913cf2-aebf-4d2b-95a0-fb8c9b9d9cc2</guid>
-            <pubDate>Mon, 11 Jan 2016 23:41:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
