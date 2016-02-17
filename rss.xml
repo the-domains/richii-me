@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 10:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 20:37:36 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing 1Password for Families]]></title>
+            <description><![CDATA[<article><h1>Introducing 1Password for Families</h1><p>I have some exciting news to share with you about families. Last month I wrote about how I use 1Password for Teams with my family and the response was amazing. Many of you were excited to sign up your family and asked if we'd have special pricing available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/480379f3ebbc982c4b19a6fe52bdad979f481dd2.png"></article>]]></description>
+            <link>https://cards.twitter.com/cards/h0li/1gufy</link>
+            <guid isPermaLink="false">10ffbc95-ef13-4ba0-b639-7e9474b1b776</guid>
+            <pubDate>Wed, 17 Feb 2016 20:21:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="What could possibly go wrong&quest;" src="https://pbs.twimg.com/media/CabQoWbVAAAnvEU.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://richii.me/best-roof-repair-ever/index.html</link>
             <guid isPermaLink="false">9dbe20f9-5169-45d2-94c6-e198ca7bb54b</guid>
             <pubDate>Wed, 13 Jan 2016 10:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie correctly predicted the future of the internet 16 years ago]]></title>
-            <description><![CDATA[<article><h1>David Bowie correctly predicted the future of the internet 16 years ago</h1><p>Everyone knows David Bowie as a fashion pioneer and a musical visionary, but the man alternately known as the Thin White Duke/Ziggy Stardust/Jareth the Goblin King was also a tech trailblazer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b7dbaec3cfdaa8776445969b707d5ed937e443c.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/1/11/10753158/david-bowie-internet-future-interview</link>
-            <guid isPermaLink="false">f76f1bcf-08ec-4a42-ae76-eaeb2f86a2e7</guid>
-            <pubDate>Tue, 12 Jan 2016 06:35:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
