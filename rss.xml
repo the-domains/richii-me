@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 07:16:22 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>YouTube doesn't know your password. Neither does Facebook. So how do they know you typed the right one? https://www.youtube.com/watch?v=yoMOAIzBSpY ...</p>]]></description>
+            <link>https://twitter.com/SwiftOnSecurity/status/700797092634038273</link>
+            <guid isPermaLink="false">894f94ae-5c65-4379-b4e6-e27d7aa7120e</guid>
+            <pubDate>Tue, 23 Feb 2016 07:15:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6 Things You Probably Didn't Know About Gravitational Waves]]></title>
             <description><![CDATA[<article><h1>6 Things You Probably Didn't Know About Gravitational Waves</h1><p>6 Things You Probably Didn’t Know About Gravitational Waves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c830f2f7adb00a771dc1eb19e94fcc9c52090a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://deadline.com/2016/01/alan-rickman-dies-aged-69-die-hard-harry-potter-truly-madly-deeply-1201682690/</link>
             <guid isPermaLink="false">015ba100-c1f8-4d18-8c81-a7417c6bc387</guid>
             <pubDate>Fri, 15 Jan 2016 01:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Down at the Viaduct]]></title>
-            <description><![CDATA[<article><h1>Down at the Viaduct</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35e5e389372cc0faeaef574a1778dbd81495f868.png"></article>]]></description>
-            <link>http://richii.me/down-at-the-viaduct/index.html</link>
-            <guid isPermaLink="false">5a70feff-f0d4-44b1-907c-167ff7ac2ed2</guid>
-            <pubDate>Thu, 14 Jan 2016 06:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
