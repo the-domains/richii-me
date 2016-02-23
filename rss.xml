@@ -4,11 +4,18 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 20:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 07:10:08 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[6 Things You Probably Didn't Know About Gravitational Waves]]></title>
+            <description><![CDATA[<article><h1>6 Things You Probably Didn't Know About Gravitational Waves</h1><p>6 Things You Probably Didn’t Know About Gravitational Waves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c830f2f7adb00a771dc1eb19e94fcc9c52090a.jpg"></article>]]></description>
+            <link>http://richii.me/6-things-you-probably-didnt-know-about-gravitational-waves/index.html</link>
+            <guid isPermaLink="false">24cc5f0b-a6af-4dc6-9dda-9576ee0d2839</guid>
+            <pubDate>Tue, 23 Feb 2016 07:10:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing 1Password for Families]]></title>
-            <description><![CDATA[<article><h1>Introducing 1Password for Families</h1><p>I have some exciting news to share with you about families. Last month I wrote about how I use 1Password for Teams with my family and the response was amazing. Many of you were excited to sign up your family and asked if we'd have special pricing available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/480379f3ebbc982c4b19a6fe52bdad979f481dd2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Introducing 1Password for Families</h1><p>I have some exciting news to share with you about families. Last month I wrote about how I use 1Password for Teams with my family and the response was amazing. Many of you were excited to sign up your family and asked if we'd have special pricing available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7048a80e556081da1e4d2b6707e4d631024a55e0.png"></article>]]></description>
             <link>https://cards.twitter.com/cards/h0li/1gufy</link>
             <guid isPermaLink="false">10ffbc95-ef13-4ba0-b639-7e9474b1b776</guid>
             <pubDate>Wed, 17 Feb 2016 20:21:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://richii.me/down-at-the-viaduct/index.html</link>
             <guid isPermaLink="false">5a70feff-f0d4-44b1-907c-167ff7ac2ed2</guid>
             <pubDate>Thu, 14 Jan 2016 06:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best roof repair ever!]]></title>
-            <description><![CDATA[<article><h1>Best roof repair ever!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3bb87856ad74afa44c3a1cdfa9f41dce6090265.png"></article>]]></description>
-            <link>http://richii.me/best-roof-repair-ever/index.html</link>
-            <guid isPermaLink="false">9dbe20f9-5169-45d2-94c6-e198ca7bb54b</guid>
-            <pubDate>Wed, 13 Jan 2016 10:47:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
