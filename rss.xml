@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 11:29:24 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hanging with the crew after BrisSec]]></title>
+            <description><![CDATA[<article><h1>Hanging with the crew after BrisSec</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca8afb9d417fc6281cfd7ec28ae0fc05a5b9964.png"></article>]]></description>
+            <link>http://richii.me/hanging-with-the-crew-after-brissec/index.html</link>
+            <guid isPermaLink="false">1ab6d2cc-1234-46cf-ab8d-3982f48ae895</guid>
+            <pubDate>Fri, 11 Mar 2016 11:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Viaduct]]></title>
             <description><![CDATA[<article><h1>The Viaduct</h1><p>Instagram photo by Richard Stocks * Mar 3, 2016 at 9:09am UTC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/292c7566cf6d02c80002a01459ed0570c0c5f379.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://richii.me/hand-held-at-300mm/index.html</link>
             <guid isPermaLink="false">d1befb2a-40b4-40c7-9288-151a65a56278</guid>
             <pubDate>Sun, 17 Jan 2016 11:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="In-flight espresso martini&comma; thanks &commat;emirates for the business class upgrade&excl;" src="https://pbs.twimg.com/media/CYwa26wU0AE2UZA.jpg:large">]]></description>
-            <link>https://twitter.com/TheRealRichii/status/687954375814197248</link>
-            <guid isPermaLink="false">5d2ab445-7fd5-4dce-a0ee-9eef876bad08</guid>
-            <pubDate>Fri, 15 Jan 2016 11:10:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
