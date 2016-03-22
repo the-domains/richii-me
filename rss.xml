@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 11:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 06:48:51 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="We are saddened by Andy Grove&apos;s passing. He made the impossible happen, time and again. http://intel.ly/1Se0Wv9" src="https://pbs.twimg.com/media/CeHGZ1pUsAEyEfg.jpg:large">]]></description>
+            <link>https://twitter.com/intel/status/712068364428914689</link>
+            <guid isPermaLink="false">8257f35b-aaa0-48a0-b5bf-1c6f7b9337d9</guid>
+            <pubDate>Tue, 22 Mar 2016 06:48:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hanging with the crew after BrisSec]]></title>
             <description><![CDATA[<article><h1>Hanging with the crew after BrisSec</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca8afb9d417fc6281cfd7ec28ae0fc05a5b9964.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/</link>
             <guid isPermaLink="false">9f7f5ebf-f8ff-434c-ba5f-78b4574dd25d</guid>
             <pubDate>Fri, 22 Jan 2016 02:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hand held at 300mm]]></title>
-            <description><![CDATA[<article><h1>Hand held at 300mm</h1><p>This shot is a jpeg straight out of the camera, no processing or cropping, taken hand-held at 300mm (approx 810mm equivalent on a 35mm frame). I'm sure a few minutes tweaking the raw file will look even better!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1585b1517b637406948063da606ac6effeb3e51f.jpg"></article>]]></description>
-            <link>http://richii.me/hand-held-at-300mm/index.html</link>
-            <guid isPermaLink="false">d1befb2a-40b4-40c7-9288-151a65a56278</guid>
-            <pubDate>Sun, 17 Jan 2016 11:41:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
