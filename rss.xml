@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 06:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 21:55:07 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The view from the lunch room]]></title>
+            <description><![CDATA[<article><h1>The view from the lunch room</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b088e7853ce21cb91c54a6fa9c2ec9ecc5f84213.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5bea5fa-241d-4881-9e42-63885083cb99.png</link>
+            <guid isPermaLink="false">027bbfd8-f618-4894-97f9-5dfb2e2bf7fc</guid>
+            <pubDate>Thu, 31 Mar 2016 21:55:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="We are saddened by Andy Grove&apos;s passing. He made the impossible happen, time and again. http://intel.ly/1Se0Wv9" src="https://pbs.twimg.com/media/CeHGZ1pUsAEyEfg.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://dontsignthetpp.net/</link>
             <guid isPermaLink="false">f041e2e4-881f-4ede-96df-0ea8628d1c89</guid>
             <pubDate>Fri, 29 Jan 2016 02:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When back doors go bad: Mind your Ps and Qs]]></title>
-            <description><![CDATA[<article><h1>When back doors go bad: Mind your Ps and Qs</h1><p>This is going to be a long and technical article, but the point can be stated more simply: The kinds of security architectures in which it is easy to insert a back door are typically less secure than the security architectures in which it is hard to insert a back door.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7811817614a5df41478c4806ef2b464e2d819749.jpg"></article>]]></description>
-            <link>https://blog.agilebits.com/2016/01/21/when-back-doors-go-bad-mind-your-ps-and-qs/</link>
-            <guid isPermaLink="false">9f7f5ebf-f8ff-434c-ba5f-78b4574dd25d</guid>
-            <pubDate>Fri, 22 Jan 2016 02:51:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
