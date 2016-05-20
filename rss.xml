@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 00:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 04:01:02 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If There's One Lens You Should Own, It's the 50mm. An Essay by Joe Pugliese]]></title>
+            <description><![CDATA[<article><h1>If There's One Lens You Should Own, It's the 50mm. An Essay by Joe Pugliese</h1><p>If he were alive today, legendary photographer Henri Cartier-Bresson would marvel at all the choices a modern shooter must make before arriving at "the decisive moment." The roadblocks to creativity we place before ourselves are more prevalent than ever. Camera makers update their lenses, sensors, and formats with over­whelming frequency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e23aa2d08de735c9fc7b53f25724c0fef90708a.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/05/best-dslr-lens/</link>
+            <guid isPermaLink="false">25ad84db-5e6e-4ee1-99af-129eb1d9ea22</guid>
+            <pubDate>Fri, 20 May 2016 04:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Vigilante Who Hacked Hacking Team Explains How He Did It]]></title>
             <description><![CDATA[<article><h1>The Vigilante Who Hacked Hacking Team Explains How He Did It</h1><p>Back in July of last year, the controversial government spying and hacking tool seller Hacking Team was hacked itself by an outside attacker. The breach made headlines worldwide, but no one knew much about the perpetrator or how he did it. That mystery has finally been revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20c8a50af94c109bafe7ef1d1c4bcfa378536891.jpg"></article>]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[The view from the lunch room]]></title>
-            <description><![CDATA[<article><h1>The view from the lunch room</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b088e7853ce21cb91c54a6fa9c2ec9ecc5f84213.png"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b088e7853ce21cb91c54a6fa9c2ec9ecc5f84213.png" alt="" title="" />]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5bea5fa-241d-4881-9e42-63885083cb99.png</link>
             <guid isPermaLink="false">027bbfd8-f618-4894-97f9-5dfb2e2bf7fc</guid>
             <pubDate>Thu, 31 Mar 2016 21:55:04 GMT</pubDate>
@@ -49,8 +56,8 @@
             <pubDate>Fri, 11 Mar 2016 11:28:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Viaduct]]></title>
-            <description><![CDATA[<article><h1>The Viaduct</h1><p>Instagram photo by Richard Stocks * Mar 3, 2016 at 9:09am UTC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/292c7566cf6d02c80002a01459ed0570c0c5f379.jpg"></article>]]></description>
+            <title><![CDATA[The Viaduct, Auckland]]></title>
+            <description><![CDATA[<article><h1>The Viaduct, Auckland</h1><p>Instagram photo by Richard Stocks * Mar 3, 2016 at 9:09am UTC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/292c7566cf6d02c80002a01459ed0570c0c5f379.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BCfD5H1APii/?taken-by=therealrichii</link>
             <guid isPermaLink="false">c963fe21-0cbe-4624-bb6b-01919a766553</guid>
             <pubDate>Fri, 04 Mar 2016 00:49:54 GMT</pubDate>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>YouTube doesn't know your password. Neither does Facebook. So how do they know you typed the right one? https://www.youtube.com/watch?v=yoMOAIzBSpY ...</p>]]></description>
+            <description><![CDATA[YouTube doesn't know your password. Neither does Facebook. So how do they know you typed the right one? https://www.youtube.com/watch?v=yoMOAIzBSpY ...]]></description>
             <link>https://twitter.com/SwiftOnSecurity/status/700797092634038273</link>
             <guid isPermaLink="false">894f94ae-5c65-4379-b4e6-e27d7aa7120e</guid>
             <pubDate>Tue, 23 Feb 2016 07:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing 1Password for Families]]></title>
-            <description><![CDATA[<article><h1>Introducing 1Password for Families</h1><p>I have some exciting news to share with you about families. Last month I wrote about how I use 1Password for Teams with my family and the response was amazing. Many of you were excited to sign up your family and asked if we'd have special pricing available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7048a80e556081da1e4d2b6707e4d631024a55e0.png"></article>]]></description>
-            <link>https://cards.twitter.com/cards/h0li/1gufy</link>
-            <guid isPermaLink="false">10ffbc95-ef13-4ba0-b639-7e9474b1b776</guid>
-            <pubDate>Wed, 17 Feb 2016 20:21:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
