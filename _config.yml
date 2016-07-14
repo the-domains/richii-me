@@ -1,41 +1,41 @@
-name: richii.me
-favicon: null
-layout_spectrum: 0.86807
-typography_spectrum: 0.13138
 title: richii.me
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.718638
+  brandStrength: 0
+  rhythmicContrast: 0.25
   brandColors:
     - '#070c08'
     - '#f9f9f9'
     - '#b1bed2'
     - '#6e817b'
     - '#e5b448'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0.718638
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: richii.me
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.13138
+layout_spectrum: 0.3966165
