@@ -4,8 +4,15 @@
         <description><![CDATA[richii.me]]></description>
         <link>http://richii.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 13:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 10:27:56 GMT</lastBuildDate>
         <atom:link href="http://richii.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Government Hackers Caught Using Unprecedented iPhone Spy Tool]]></title>
+            <description><![CDATA[<article><h1>Government Hackers Caught Using Unprecedented iPhone Spy Tool</h1><p>On the morning of August 10, Ahmed Mansoor, a 46-year-old human rights activist from the United Arab Emirates, received a strange text message from a number he did not recognize on his iPhone. "New secrets about torture of Emiratis in state prisons," read the tantalizing message, which came accompanied by a link.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a7f388c7f8daf2263df1f679bf3d4c8c/noop.jpg?input=http%3A%2F%2Fmotherboard-images.vice.com%2Fcontent-images%2Farticle%2F36913%2F1472144099487170.jpg"></article>]]></description>
+            <link>https://motherboard.vice.com/read/government-hackers-iphone-hacking-jailbreak-nso-group</link>
+            <guid isPermaLink="false">8572dc62-647d-4416-bb26-f3f90a8c1c2f</guid>
+            <pubDate>Fri, 26 Aug 2016 10:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the way to Darwin]]></title>
             <description><![CDATA[<article><h1>On the way to Darwin</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2b22e0-24d4-4095-bbd4-a031ee7d490b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCfD5H1APii/?taken-by=therealrichii</link>
             <guid isPermaLink="false">c963fe21-0cbe-4624-bb6b-01919a766553</guid>
             <pubDate>Fri, 04 Mar 2016 00:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://richii.me/nyt-finds-smoking-gun-in-the-hands-of-volkswagenand39s-forme/index.html</link>
-            <guid isPermaLink="false">f31c02aa-c145-4bf8-846b-6b186a914bb9</guid>
-            <pubDate>Fri, 04 Mar 2016 00:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
