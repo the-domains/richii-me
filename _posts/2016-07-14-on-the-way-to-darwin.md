@@ -1,13 +1,15 @@
 ---
 title: On the way to Darwin
-datePublished: '2016-07-14T13:26:47.305Z'
-dateModified: '2016-07-14T12:39:30.277Z'
+datePublished: '2016-08-26T15:39:09.922Z'
+dateModified: '2016-08-26T15:38:56.073Z'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f2b22e0-24d4-4095-bbd4-a031ee7d490b.jpg
 description: ''
-starred: false
 sourcePath: _posts/2016-07-14-on-the-way-to-darwin.md
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
