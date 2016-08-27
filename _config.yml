@@ -1,3 +1,16 @@
+layout_spectrum: 0.052794398507103324
+typography_spectrum: 0.6432713023386896
+color:
+  saturation: 0.5604977873153985
+  brandStrength: 0.07833631988614798
+  rhythmicContrast: 0.6552188023924828
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  lightness: 0.34723118250258267
 title: richii.me
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.718638
-  brandStrength: 0
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#070c08'
-    - '#f9f9f9'
-    - '#b1bed2'
-    - '#6e817b'
-    - '#e5b448'
-  lightness: 0.5
 cta:
   bucket: null
   version: null
@@ -37,5 +39,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.13138
-layout_spectrum: 0.3966165
